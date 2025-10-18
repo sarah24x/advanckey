@@ -2,10 +2,10 @@
   "licenses": [
     {
       "key": "1234xx",
-      "device_id": "dd72e2a7b-11bf-4f94-ae89-cc48453caa84",
+      "device_id": "29ed977e-ad02-4f15-9cc0-ea94d3b1cca1",
       "expiry_date": "2025-10-16",
-      "active": false,
-      "status": "inactive",
+      "active": true,
+      "status": "active",
       "created_date": "2024-01-01",
       "max_devices": 1
     },
